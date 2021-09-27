@@ -1,0 +1,94 @@
+body {
+  background-color: linen
+
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 45px;
+  color: maroon
+}
+
+#output{
+  font-family: monospace;
+  font-size: 20px;
+  color: maroon;
+}
+
+#output2{
+  font-family: monospace;
+  font-size: 20px;
+  color: maroon;
+}
+
+#one{
+  background-color: maroon;
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  font-size: 16px;
+}
+
+#two {
+  background-color: maroon;
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  font-size: 16px;
+}
+#three {
+  background-color: maroon;
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  font-size: 16px;
+}
+#four {
+  background-color: maroon;
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  font-size: 16px;
+}
+#five {
+  background-color: maroon;
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  font-size: 16px;
+}
+#six {
+  background-color: maroon;
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  font-size: 16px;
+}
+#seven {
+  background-color: maroon;
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  font-size: 16px;
+}
+#eight {
+  background-color: maroon;
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  font-size: 16px;
+}
+#nine {
+ background-color: maroon;
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  font-size: 16px;
+}
+#clear{
+  background-color: maroon;
+  border: none;
+  color: white;
+  padding: 5px 13px;
+  font-size: 16px;
+}
